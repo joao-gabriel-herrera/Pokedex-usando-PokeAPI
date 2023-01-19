@@ -13,8 +13,7 @@ body {
 main {
   position: relative;
   display: inline-block;
-  margin-top: 2%;
-  padding: 15px;
+  margin-top: 5px;
 }
 .pokedex {
   width: 100%;
